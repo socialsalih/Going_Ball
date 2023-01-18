@@ -353,9 +353,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Assets/Gems Ultimate Pack/Scripts/AnimationScript.cs"
 "Assets/Going Balls/Script Files/BallMovement.cs"
 "Assets/Going Balls/Script Files/CameraFollow.cs"
+"Assets/Going Balls/Script Files/CollectObject.cs"
 "Assets/Going Balls/Script Files/CollisionScript.cs"
+"Assets/Going Balls/Script Files/DeathTeleporter.cs"
 "Assets/Going Balls/Script Files/Gravity.cs"
 -langversion:9.0
 
